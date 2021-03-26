@@ -1,2 +1,5 @@
-{"test": "value"}
+{
+  "test": "value",
+  "db_name": "local"
+}
 
